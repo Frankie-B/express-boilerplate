@@ -1,0 +1,7 @@
+{
+  "uid": "app",
+  "outFile": "../log/all.log",
+  "append": true,
+  "command": "npm run prod",
+  "script": "./"
+}
